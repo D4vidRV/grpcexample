@@ -1,0 +1,23 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, build directory, and coverage report
+/test
+/build
+/cover
+
+# Dependency directories (remove the ones you are not using)
+/bin
+/pkg
+/vendor
+
+# Output of go tooling
+*.test
+*.prof
+
+# Output of the go coverage tool
+*.out
